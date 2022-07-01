@@ -1,1 +1,1 @@
-# react-news-appinshorts-clone
+# react-news-app-inshorts-clone
